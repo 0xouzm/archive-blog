@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: Señorita.
 subtitle:
-description:
+description: Because it's there.
 author: Ouzm
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -605,7 +605,7 @@ exturl: false
 #! ---------------------------------------------------------------
 
 # Motion
-use_motion: true
+use_motion: false
 
 # Fancybox
 fancybox: true
