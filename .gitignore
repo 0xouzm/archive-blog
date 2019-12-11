@@ -3,9 +3,15 @@ _theme_packages/*
 
 Thumbs.db
 .DS_Store
-
+.idea
 !.gitkeep
 
 .rbenv-version
 .rvmrc
 /vendor
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/yuppieghost.github.io.iml
