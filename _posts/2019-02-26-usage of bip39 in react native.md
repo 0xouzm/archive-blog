@@ -1,7 +1,7 @@
 ---
 title: "usage of bip39 in react native"
 date: 2019-02-26 15:08
-categories: react native
+categories: react-native
 tags: block chain
 ---
 

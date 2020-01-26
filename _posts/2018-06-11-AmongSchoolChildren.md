@@ -2,8 +2,8 @@
 title: Among School Children
 description: By WB Yeats
 date: 2018-06-01 16:14:39
-categories: python
-tags: 
+categories: life
+tags: life poetry
 ---
 
 ### VI  
