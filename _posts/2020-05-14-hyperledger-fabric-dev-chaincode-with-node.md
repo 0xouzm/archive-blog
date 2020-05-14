@@ -38,3 +38,4 @@ peer chaincode instantiate -o orderer:7050 -l node -n mycc -v 0 -c '{"Args":["in
 ```
 
 注意chaincode name与version一致
+
